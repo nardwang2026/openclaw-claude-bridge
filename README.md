@@ -86,10 +86,14 @@ helper.collaborate(
 
 ## 文档
 
-- [快速开始指南](QUICK_START.md) - 5 分钟上手
-- [完整使用指南](docs/SELF_STUDY_GUIDE.md) - OpenClaw 学习文档
-- [API 文档](docs/API.md) - 详细 API 说明
-- [示例代码](examples/) - 常见使用场景
+| 文档 | 适合 | 内容 |
+|------|------|------|
+| [USAGE_GUIDE.md](USAGE_GUIDE.md) ⭐ | AI + 人类 | **安装后阅读** - 完整使用指南 |
+| [QUICK_START.md](QUICK_START.md) | 人类 | 5 分钟快速上手 |
+| [docs/SELF_STUDY_GUIDE.md](docs/SELF_STUDY_GUIDE.md) | AI (OpenClaw) | 自学文档 |
+| [examples/](examples/) | AI + 人类 | 代码示例 |
+
+> 💡 **安装后请务必阅读 [USAGE_GUIDE.md](USAGE_GUIDE.md)** - 包含所有 API 用法和常见场景
 
 ---
 
